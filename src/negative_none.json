@@ -1,0 +1,11 @@
+{
+    "Negative": "1214",
+    "None": "1263",
+    "Study": "1214",
+    "Image": "1263",
+    "First_number_col": "2477",
+    "Second_number_col": "2477",
+    "Third_number_col": "2477",
+    "Forth_number_col": "2477",
+    "Fifth_number_col": "2477"
+}
