@@ -15,7 +15,7 @@
     "fs": "^0.0.1-security",
     "nodemon": "^2.0.20",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.6.0",
+    "react-bootstrap": "^2.8.0",
     "react-chartjs-2": "^5.0.1",
     "react-csv-to-table": "^0.0.1",
     "react-dom": "^18.2.0",
